@@ -1,10 +1,11 @@
 {
   "name": "f2e-middle-webpack",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "f2e-middle-webpack",
   "main": "index.js",
   "dependencies": {
-    "webpack": "^5.28.0",
+    "user": "*",
+    "webpack": "^4.46.0",
     "webpack-dev-middleware": "^4.1.0"
   },
   "devDependencies": {
